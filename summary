@@ -1,0 +1,6 @@
+POst Creation App (PostRave)
+1. Login, Reg -> bcryot, cookie parser, jwt
+2. Logout -> token empty
+3. Post Creation -> require isLoggedIn(middleware)
+5. Post Like
+6. Post Delete(Only by creator)
